@@ -53,4 +53,4 @@ La casa que el sombrero me asigno fue: Slytherin
 - Ensure you have the necessary permissions to detect key presses on your system.
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source.
